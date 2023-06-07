@@ -2,7 +2,7 @@
 Sou um estudante de back-end, nascido em Recife/BR e continuo morando aqui.
 
 ## Um pouco sobre mim:
-Sou casado e pai de uma menina linda chamada Cecilia. No momento estou em migração de carreira, tentardo me tornar um desenvolvedor back-end.
+Sou casado e pai de uma menina linda chamada Cecilia. No momento estou em migração de carreira, tentando me tornar um desenvolvedor back-end.
 
 ## Minhas redes:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ninho05/)
