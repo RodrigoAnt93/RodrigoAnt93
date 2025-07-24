@@ -1,13 +1,12 @@
 ### Olá, Eu sou o Rodrigo Antonio ✌️
-Sou um estudante de back-end, nascido em Recife/BR e continuo morando aqui.
+Sou um desenvolvedor de back-end, nascido em Recife/BR e continuo morando aqui.
 
 ## Um pouco sobre mim:
-Sou casado e pai de uma menina linda chamada Cecilia. No momento estou em migração de carreira, tentando me tornar um desenvolvedor back-end.
+Sou casado e pai de uma menina linda chamada Cecilia. Trabalho na empresa IBFT na equipe de desenvolvimento LLM chamada RedFine.
 
 ## Minhas redes:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ninho05/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ninho.json/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-antonio-de-melo-pereira-940334233/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ## Tecnologias em aprendizado:
 
